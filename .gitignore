@@ -1,0 +1,16 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+
+# Archives (not meant to be tracked)
+*.7z
+*.zip
+
+# Go
+client/client
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
