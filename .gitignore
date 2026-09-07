@@ -8,9 +8,13 @@
 *.7z
 *.zip
 
+# Original task/assignment brief -- not meant for public distribution
+system-design.pdf
+
 # Go
 client/client
 
 # OS / editor cruft
 Thumbs.db
 .DS_Store
+.vscode/
